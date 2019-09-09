@@ -1,7 +1,5 @@
-# Siloam S/W product
+# Siloam S/W Product Page
 
 
-
-
-*LuxZoom
+[LuxZoom]:(https://github.com/SiloamDevteam/product/tree/master/LuxZoom)
 
