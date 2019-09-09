@@ -10,3 +10,4 @@
 ***
 
 **[User Guide (install, basic function)](https://drive.google.com/file/d/1YDZd2qcxLsej0NiOJDQcQdVmYlmm4ARf/view?usp=sharing)**
+**[User Manual (chm)](https://drive.google.com/file/d/1XOia6bbDChkfHSmkJOEiU4Z_lUxj5CmG/view?usp=sharing)**
